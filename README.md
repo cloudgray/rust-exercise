@@ -1,0 +1,2 @@
+# rust-exercise
+Rust Exercise
